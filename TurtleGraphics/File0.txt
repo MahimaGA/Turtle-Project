@@ -1,0 +1,14 @@
+shape 5
+shape 6
+shape 7
+penup
+forward 100
+backward 200
+turnright 90
+forward 100
+star
+forward 50
+flower 50
+bug
+p 10
+

@@ -1,0 +1,19 @@
+pendown
+forward 50
+turnleft
+turnleft 0
+turnleft -10
+turnleft 50
+turnright 0
+turnright -10
+turnright  kdjdh
+turnright 80
+backward 50
+blue
+forward 80
+white
+forward 40
+green
+forward 50
+black
+backward 50

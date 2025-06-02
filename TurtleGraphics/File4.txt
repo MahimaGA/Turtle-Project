@@ -1,0 +1,14 @@
+about
+square 40
+pencolour 0 255 0
+forward 50
+pencolour 0 255 255
+forward 50
+penwidth 10
+forward 50
+triangle 80
+triangle 50
+triangle 30 40 50
+forward 80
+triangle 30 40 50
+forward 50

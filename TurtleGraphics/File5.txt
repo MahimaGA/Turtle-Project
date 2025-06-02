@@ -1,0 +1,8 @@
+mandela
+mandela2
+flower
+flower 80
+bug
+circle 80
+rectangle 40 80
+spiral
